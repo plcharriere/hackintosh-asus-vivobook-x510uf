@@ -1,0 +1,1 @@
+# hackintosh-asus-vivobook-x510uf
