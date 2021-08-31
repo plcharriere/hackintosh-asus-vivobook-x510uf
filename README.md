@@ -1,4 +1,4 @@
-# Hackintosh-Asus-VivoBook-X510UF
+# Hackintosh Asus VivoBook X510UF
 
 This repository contains my EFI folders and bootloaders configurations to boot macOS on my Asus VivoBook X510UF laptop.
 
